@@ -70,7 +70,7 @@ No signup required for basic access. No restrictions. No filters. Just pure unce
 
 ## 🏷️ Topics
 
-`uncensored-ai` `unrestricted-ai` `unfiltered-ai` `no-filter-ai` `jailbreak-ai` `worm-gpt` `wormgpt-alternative` `chatgpt-jailbreak` `dan-mode` `unrestricted-gpt` `unrestricted-llm` `uncensored-chatbot` `dark-ai` `unhinged-ai` `no-censorship-ai` `free-uncensored-ai` `dadgpt` `chatgpt-alternative` `ai-freedom` `wormgpt`
+`uncensored-ai` `unrestricted-ai` `unfiltered-ai` `no-filter-ai` `jailbreak-ai` `worm-gpt` `wormgpt-alternative` `chatgpt-jailbreak` `dan-mode` `unrestricted-gpt` `unrestricted-llm` `uncensored-chatbot` `dark-ai` `unhinged-ai``no-censorship-ai` `free-uncensored-ai` `dadgpt` `chatgpt-alternative` `ai-freedom` `wormgpt`
 
 ---
 
