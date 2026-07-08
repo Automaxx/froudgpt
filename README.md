@@ -16,7 +16,7 @@ Unlike ChatGPT, Claude, Gemini, or any other sanitized LLM, DadGPT does NOT hold
 
 ---
 
-## 🔓 Why DadGPT > WormGPTy
+## 🔓 Why DadGPT > WormGPT
 
 | Feature | WormGPT | DadGPT |
 |---------|---------|--------|
