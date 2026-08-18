@@ -7,7 +7,7 @@
 [![No Filter](https://img.shields.io/badge/No-Filter-black?style=for-the-badge)](https://dadgpt.live)
 [![Unrestricted](https://img.shields.io/badge/Unrestricted-GPT-purple?style=for-the-badge)](https://dadgpt.live)
 
-----
+---
 
 ## ⚡ What is DadGPT?
 
