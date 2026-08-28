@@ -9,7 +9,6 @@
 
 --
 
-
 ## ⚡ What is DadGPT?
 
 **DadGPT** is the world's most powerful **uncensored AI chatbot** — an **unrestricted AI** with absolutely *no filters, no censorship, and no limits**. If you're looking for a **WormGPT alternative**, a **ChatGPT jailbreak** that actually works, or a truly **unfiltered AI**, you've found it.
